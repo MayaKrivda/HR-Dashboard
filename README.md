@@ -38,3 +38,13 @@ The Summary View is designed to provide a high-level overview of HR metrics, inc
 ## Data
 
 The dashboard utilizes data from the `HumanResources.csv` file. This CSV file contains detailed employee records and is essential for generating the various metrics and visualizations in the dashboard.
+
+## Attachments
+
+- **HR Dashboard**: Tableau file for the dashboard.
+- **HumanResources.csv**: CSV file containing employee data.
+- **Blueprint Diagram**: Draw.io file with the dashboard blueprint.
+
+## Author
+
+This project was developed by Baraa Khatib Salkini
